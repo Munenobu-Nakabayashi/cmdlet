@@ -1,0 +1,1 @@
+(Test-NetConnection $Args[0] -WarningAction SilentlyContinue ).PingSucceeded
